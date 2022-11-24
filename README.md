@@ -256,8 +256,8 @@ O Vite já cria o projeto com menos arquivos do que o `create-react-app`, porém
 
 ### ❌ Arquivos que podem ser removidos
 
--   `src/App.css`
 -   `public/vite.svg`
+-   `src/App.css`
 -   `src/assets/react.svg`
 
 ---
