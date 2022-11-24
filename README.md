@@ -272,7 +272,7 @@ Algumas alterações para fazer no arquivo `index.html`:
 
 ## 📝 Arquivo `App.jsx`
 
-Agora o arquivo `App.jsx` ficará assim:
+Agora o arquivo `App.jsx` ficará bem mais simples, contendo apenas:
 
 ```jsx
 // src/App.jsx
@@ -281,7 +281,7 @@ import React from "react"
 import AppRoutes from "./Routes"
 
 export default function App() {
-	return <Routes />
+	return <AppRoutes />
 }
 ```
 
