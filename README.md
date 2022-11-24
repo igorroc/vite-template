@@ -37,7 +37,7 @@ Após isso, o projeto será criado, e aqui entra a parte mais importante, as **d
 -   `Stitches` para a estilização
 
 ```bash
-cd nome-do-projeto
+cd nome-projeto
 npm install react-router-dom @iconify/react @stitches/react
 ```
 
