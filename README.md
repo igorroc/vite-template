@@ -118,7 +118,7 @@ Existem diversas formas de organizar os componentes. A forma com a qual eu me ad
 
 Para criar um componente, basta criar uma pasta com o nome do componente (em [PascalCase](https://www.alura.com.br/artigos/convencoes-nomenclatura-camel-pascal-kebab-snake-case#:~:text=coisasParaFazer%0A%0AidadeDoAmigo%0A%0AvalorFinal-,Pascal,-case)) e dentro dela criar um arquivo `index.jsx` que será o arquivo principal do componente, e um arquivo `styles.js` que será o arquivo de estilização do componente.
 
-Para seguir um padrão de criação de um *Styled Component* (Stitches) da utilização do `Stitches`, o mesmo deverá seguir a seguinte formatação:
+Para seguir um padrão de criação de um _Styled Component_ (Stitches) da utilização do `Stitches`, o mesmo deverá seguir a seguinte formatação:
 
 ```jsx
 Styled + "NomeDoComponente"
