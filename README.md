@@ -23,7 +23,11 @@ Select Variant: » js
 ```
 
 ```fix
-💡 Dica:  Se você já possui uma pasta para seu projeto, e não quer criar uma pasta dentro da pasta, basta colocar . no campo "Project name"
+💡 Dica:  Se você já possui uma pasta para seu projeto, e não quer criar uma pasta dentro da pasta, basta colocar "." no "Project Name":
+```
+
+```ml
+Project Name: » .
 ```
 
 Após isso, o projeto será criado, e aqui entra a parte mais importante, as **dependências primordiais** _(que eu acho que são necessárias para um projeto ReactJs)_:
