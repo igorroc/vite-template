@@ -6,6 +6,8 @@ Quando você inicia um novo projeto com Vite, ele cria para você um diretório 
 
 Então, eu vou mostrar a vocês como eu estruturo **meus projetos ReactJs utilizando Vite.**
 
+Caso você queira, pode ir acompanhando o repositório do projeto que eu criei para esse tutorial: [vite-template](https://github.com/igorroc/vite-template)
+
 ## 🚩 Início do desenvolvimento
 
 Para iniciar um projeto novo, você deve ir para sua pasta raiz, onde será armazenado o projeto (normalmente sua pasta `documentos/`), e executar o comando:
