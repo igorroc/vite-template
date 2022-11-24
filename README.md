@@ -1,10 +1,10 @@
-# Melhor forma de estruturar um projeto ReactJs utilizando Vite (minha opinião!)
+# Melhor forma de estruturar um projeto React utilizando Vite (minha opinião!)
 
 **Vite** é um empacotador de aplicativos da web que substitui o webpack e o Parcel. Ele é projetado para fornecer uma experiência de desenvolvimento mais rápida e mais leve para os desenvolvedores.
 
-Quando você inicia um novo projeto com Vite, ele cria para você um diretório com uma boa **estrutura inicial** para um sistema em React. Mas, eu acho que essa estrutura inicial não é a ideal para um projeto ReactJs.
+Quando você inicia um novo projeto com Vite, ele cria para você um diretório com uma boa **estrutura inicial** para um sistema em React. Mas, eu acho que essa estrutura inicial não é a ideal para um projeto.
 
-Então, eu vou mostrar a vocês como eu estruturo **meus projetos ReactJs utilizando Vite.**
+Então, eu vou mostrar a vocês como eu estruturo **meus projetos React utilizando Vite.**
 
 Caso você queira, pode ir acompanhando o repositório do projeto que eu criei para esse tutorial: [vite-template](https://github.com/igorroc/vite-template)
 
@@ -32,7 +32,7 @@ Select Variant: » js
 Project Name: » .
 ```
 
-Após isso, o projeto será criado, e aqui entra a parte mais importante, as **dependências primordiais** _(que eu acho que são necessárias para um projeto ReactJs)_:
+Após isso, o projeto será criado, e aqui entra a parte mais importante, as **dependências primordiais** _(que eu acho que são necessárias para um projeto React)_:
 
 -   `React Router Dom` para o roteamento
 -   `Iconify` para os ícones
@@ -53,7 +53,7 @@ npm run dev
 
 ## 📁 Estrutura de arquivos padrão
 
-Agora, vamos ver como eu estruturo meus projetos ReactJs utilizando Vite.
+Agora, vamos ver como eu estruturo meus projetos React utilizando Vite.
 
 ```bash
 .
