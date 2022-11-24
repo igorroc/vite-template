@@ -127,7 +127,7 @@ Styled + "NomeDoComponente"
 Para exemplo, vamos criar um componente header:
 
 ```jsx
-// index.jsx
+// src/components/Header/index.jsx
 import { StyledHeader } from "./styles"
 
 export default function Header() {
@@ -140,11 +140,11 @@ export default function Header() {
 ```
 
 ```jsx
-// styles.js
+// src/components/Header/styles.js
 import { styled } from "@stitches/react"
 
 export const StyledHeader = styled("header", {
-	// Estilos
+	// Estilos do header
 })
 ```
 
@@ -153,7 +153,7 @@ Fazendo isso, nós conseguimos agora apenas colocar uma classe interna no filho 
 Veja o exemplo:
 
 ```jsx
-// index.jsx
+// src/components/Header/index.jsx
 import { StyledHeader } from "./styles"
 
 export default function Header() {
@@ -166,7 +166,7 @@ export default function Header() {
 ```
 
 ```jsx
-// styles.js
+// src/components/Header/styles.js
 import { styled } from "@stitches/react"
 
 export const StyledHeader = styled("header", {
