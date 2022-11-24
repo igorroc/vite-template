@@ -291,7 +291,7 @@ export default function App() {
 
 Agora você já sabe como criar um projeto React do zero utilizando o Vite, já sabe como configurar o Stitches para estilizar os componentes e também já sabe como criar rotas para as páginas.
 
-Lembrando que esse é o **meu jeito** de criar um projeto React, mas você pode criar da forma que achar melhor.
+Lembrando que esse é o **meu jeito** de criar um projeto React, você pode criar da forma que achar melhor.
 
 ---
 
